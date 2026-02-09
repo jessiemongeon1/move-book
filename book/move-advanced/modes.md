@@ -1,3 +1,7 @@
+---
+description: "Compilation modes in Move: include unpublishable code in named build modes like debug, benchmark, or spec beyond the built-in test mode."
+---
+
 # Modes
 
 Modes let you include **unpublishable** code only when you explicitly opt into a named build `mode`.
@@ -75,7 +79,7 @@ non-enabled mode are compiled **out**. Unannotated items are always compiled in.
 module my_pkg::math_tests {
     use my_pkg::math;
 
-    #[modetest]
+    #[mode(test)]
     fun add_basic() { /* ... */ }
 
     // Private test helper

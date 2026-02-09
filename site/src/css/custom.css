@@ -12,7 +12,7 @@
   --ifm-font-weight-light: 200;
   --ifm-font-weight-semibold: 200;
   --ifm-font-weight-base: 200;
-  --ifm-font-weight-bold: 200;
+  --ifm-font-weight-bold: 400;
   --ifm-font-color-base: black;
   --ifm-line-height-base: 1.45em;
 
@@ -62,6 +62,10 @@
 code {
   font-size: inherit;
   line-height: inherit;
+}
+
+strong {
+  font-weight: 600;
 }
 
 /* Dark mode */

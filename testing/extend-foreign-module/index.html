@@ -12,8 +12,8 @@
 
 <link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Rubik:wght@300&amp;amp;display=swap">
 <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.0/css/all.min.css"><link rel="stylesheet" href="/assets/css/styles.4750fbb9.css">
-<script src="/assets/js/runtime~main.e0e42294.js" defer="defer"></script>
-<script src="/assets/js/main.e7e8fc70.js" defer="defer"></script>
+<script src="/assets/js/runtime~main.bcd7e3db.js" defer="defer"></script>
+<script src="/assets/js/main.b605c296.js" defer="defer"></script>
 </head>
 <body class="navigation-with-keyboard">
 <svg xmlns="http://www.w3.org/2000/svg" style="display: none;"><defs>
@@ -24,6 +24,11 @@
 defined in those packages. However, many libraries don&#x27;t provide test utilities, leaving you unable
 to construct the objects your tests require. Module extensions solve this problem by allowing you to
 add test-only functions to foreign modules.</p>
+<blockquote>
+<p>This feature is currently available only in <span class="inline-code">2024.alpha</span> edition.
+To use it, you need to specify the edition in the <span class="inline-code">Move.toml</span> :</p>
+<div class="language-toml codeBlockContainer_lhNI theme-code-block" style="--prism-background-color:hsl(230, 1%, 98%);--prism-color:hsl(230, 8%, 24%)"><div class="codeBlockContent_e6Q0"><pre tabindex="0" class="prism-code language-toml codeBlock_o5bO thin-scrollbar" style="background-color:hsl(230, 1%, 98%);color:hsl(230, 8%, 24%)"><code class="codeBlockLines_MlBX"><span class="token-line" style="color:hsl(230, 8%, 24%)"><span class="token punctuation" style="color:hsl(119, 34%, 47%)">[</span><span class="token table class-name" style="color:hsl(35, 99%, 36%)">package</span><span class="token punctuation" style="color:hsl(119, 34%, 47%)">]</span><span class="token plain"></span><br></span><span class="token-line" style="color:hsl(230, 8%, 24%)"><span class="token plain"></span><span class="token key property" style="color:hsl(5, 74%, 59%)">edition</span><span class="token plain"> </span><span class="token punctuation" style="color:hsl(119, 34%, 47%)">=</span><span class="token plain"> </span><span class="token string" style="color:hsl(119, 34%, 47%)">&quot;2024.alpha&quot;</span><br></span></code></pre></div></div>
+</blockquote>
 <h2 class="anchor anchorWithStickyNavbar_N3dU" id="the-problem">The Problem<a href="#the-problem" class="hash-link" aria-label="Direct link to The Problem" title="Direct link to The Problem">​</a></h2>
 <p>Consider an application that uses <a href="https://pyth.network/" target="_blank" rel="noopener noreferrer">Pyth Network</a> for price feeds. Your code
 depends on <span class="inline-code">PriceInfoObject</span> from the Pyth package to get asset prices:</p>

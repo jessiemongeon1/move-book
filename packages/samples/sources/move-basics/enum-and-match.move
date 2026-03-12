@@ -45,8 +45,8 @@ public struct Segments(vector<Segment>) has copy, drop;
 fun test_segments() {
     let _ = Segments(vector[
         Segment::Empty,
-        Segment::String(b"hello".to_string()),
-        Segment::String(b" move".to_string()),
+        Segment::String("hello"),
+        Segment::String(" move"),
         Segment::Special { content: b"21", encoding: 1 },
     ]);
 }

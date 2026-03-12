@@ -35,7 +35,7 @@ use std::unit_test::assert_eq;
 
 // ANCHOR: pack
 let mut artist = Artist {
-    name: b"The Beatles".to_string()
+    name: "The Beatles"
 };
 // ANCHOR_END: pack
 
@@ -44,13 +44,13 @@ let mut artist = Artist {
 let artist_name = artist.name;
 
 // Access a field of the `Artist` struct.
-assert_eq!(artist.name, b"The Beatles".to_string());
+assert_eq!(artist.name, "The Beatles");
 
 // Mutate the `name` field of the `Artist` struct.
-artist.name = b"Led Zeppelin".to_string();
+artist.name = "Led Zeppelin";
 
 // Check that the `name` field has been mutated.
-assert_eq!(artist.name, b"Led Zeppelin".to_string());
+assert_eq!(artist.name, "Led Zeppelin");
 // ANCHOR_END: access
 
 // ANCHOR: unpack
@@ -60,7 +60,7 @@ let Artist { name } = artist;
 // ANCHOR_END: unpack
 
 let artist = Artist {
-    name: b"The Beatles".to_string()
+    name: "The Beatles"
 };
 
 // ANCHOR: unpack_ignore

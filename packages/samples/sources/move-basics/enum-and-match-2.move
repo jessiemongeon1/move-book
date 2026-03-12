@@ -14,9 +14,9 @@ fun test_full_enum_cycle() {
     // Create a vector of different Segment variants.
     let segments = vector[
         segment::new_empty(),
-        segment::new_string(b"hello".to_string()),
+        segment::new_string("hello"),
         segment::new_special(b" ", 0), // plaintext
-        segment::new_string(b"move".to_string()),
+        segment::new_string("move"),
         segment::new_special(b"21", 1), // hex
     ];
 
@@ -30,6 +30,6 @@ fun test_full_enum_cycle() {
     });
 
     // Check that the result is what's expected.
-    assert_eq!(result, b"hello move!".to_string());
+    assert_eq!(result, "hello move!");
 }
 // ANCHOR_END: enum_test

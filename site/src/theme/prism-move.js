@@ -268,12 +268,31 @@
       alias: 'function',
     },
 
-    'string-literal': {
+    'byte-string-literal': {
       pattern: /b"(\\[\s\S]|[^\\"])*"/,
       // alias: "string",
       inside: {
         'string-literal-prefix': {
           pattern: /b"/,
+          // alias: "builtin",
+        },
+        'string-literal-content': {
+          pattern: /(\\[\s\S]|[^\\"])*/,
+          alias: 'string',
+        },
+        'string-literal-suffix': {
+          pattern: /"/,
+          // alias: "builtin",
+        },
+      },
+    },
+
+    'string-literal': {
+      pattern: /"(\\[\s\S]|[^\\"])*"/,
+      // alias: "string",
+      inside: {
+        'string-literal-prefix': {
+          pattern: /"/,
           // alias: "builtin",
         },
         'string-literal-content': {

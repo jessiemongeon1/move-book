@@ -56,9 +56,9 @@ fun vec_set_playground() {
     set.insert(2); // add an item to the set
     set.insert(3);
 
-    assert!(set.contains(&1)); // check if an item is in the set
-    assert!(set.length() == 3); // get the number of items in the set
-    assert!(!set.is_empty()); // check if the set is empty
+    assert_eq!(set.contains(&1), true); // check if an item is in the set
+    assert_eq!(set.length(), 3); // get the number of items in the set
+    assert_eq!(set.is_empty(), false); // check if the set is empty
 
     set.remove(&2); // remove an item from the set
 }
@@ -89,6 +89,9 @@ public struct Metadata has drop {
     attributes: VecMap<String, String>
 }
 
+#[test_only]
+use std::unit_test::assert_eq;
+
 #[test]
 fun vec_map_playground() {
     let mut map = vec_map::empty(); // create an empty map
@@ -96,7 +99,7 @@ fun vec_map_playground() {
     map.insert(2, b"two".to_string()); // add a key-value pair to the map
     map.insert(3, b"three".to_string());
 
-    assert!(map.contains(&2)); // check if a key is in the map
+    assert_eq!(map.contains(&2), true); // check if a key is in the map
 
     map.remove(&2); // remove a key-value pair from the map
 }

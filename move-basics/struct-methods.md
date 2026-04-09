@@ -1,3 +1,5 @@
+> For the complete documentation index, see [llms.txt](https://move-book.com/llms.txt)
+
 # Struct Methods
 
 Move Compiler supports _receiver syntax_ `e.f()`, which allows defining methods which can be called

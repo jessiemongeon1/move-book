@@ -1,3 +1,5 @@
+> For the complete documentation index, see [llms.txt](https://move-book.com/llms.txt)
+
 # Generating Coverage Reports
 
 Code coverage is a metric that shows which parts of your code are executed during tests. It helps

@@ -1,3 +1,5 @@
+> For the complete documentation index, see [llms.txt](https://move-book.com/llms.txt)
+
 # Vector
 
 `vector<T>` is the only primitive collection type provided by Move. A `vector<T>` is a homogeneous

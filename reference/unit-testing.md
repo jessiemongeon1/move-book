@@ -1,3 +1,5 @@
+> For the complete documentation index, see [llms.txt](https://move-book.com/llms.txt)
+
 # Unit Tests
 
 Unit testing for Move uses three annotations in the Move source language:

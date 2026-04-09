@@ -1,3 +1,5 @@
+> For the complete documentation index, see [llms.txt](https://move-book.com/llms.txt)
+
 # Pattern: Hot Potato
 
 A case in the abilities system - a struct without any abilities - is called _hot potato_. It cannot

@@ -1,3 +1,5 @@
+> For the complete documentation index, see [llms.txt](https://move-book.com/llms.txt)
+
 # Publisher Authority
 
 In application design and development, it is often needed to prove publisher authority. This is

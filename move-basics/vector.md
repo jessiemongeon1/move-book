@@ -1,3 +1,5 @@
+> For the complete documentation index, see [llms.txt](https://move-book.com/llms.txt)
+
 # Vector
 
 Vectors are a native way to store collections of elements in Move. They are similar to arrays in

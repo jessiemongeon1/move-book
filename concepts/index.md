@@ -1,3 +1,5 @@
+> For the complete documentation index, see [llms.txt](https://move-book.com/llms.txt)
+
 # Concepts
 
 In this chapter you will learn about the basic concepts of Sui and Move. You will learn what is a

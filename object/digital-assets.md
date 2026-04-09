@@ -1,3 +1,5 @@
+> For the complete documentation index, see [llms.txt](https://move-book.com/llms.txt)
+
 # Move - Language for Digital Assets
 
 Smart-contract programming languages have historically focused on defining and managing digital

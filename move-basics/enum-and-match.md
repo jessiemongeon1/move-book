@@ -1,3 +1,5 @@
+> For the complete documentation index, see [llms.txt](https://move-book.com/llms.txt)
+
 # Enums and Match
 
 An enum is a user-defined data structure that, unlike a [struct](./struct), can represent multiple

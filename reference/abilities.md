@@ -1,3 +1,5 @@
+> For the complete documentation index, see [llms.txt](https://move-book.com/llms.txt)
+
 # Abilities
 
 Abilities are a typing feature in Move that control what actions are permissible for values of a

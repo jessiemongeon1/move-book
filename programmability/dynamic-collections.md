@@ -1,3 +1,5 @@
+> For the complete documentation index, see [llms.txt](https://move-book.com/llms.txt)
+
 # Dynamic Collections
 
 [Sui Framework](./sui-framework) offers a variety of collection types that build on the

@@ -1,3 +1,5 @@
+> For the complete documentation index, see [llms.txt](https://move-book.com/llms.txt)
+
 # Using Objects
 
 In the [Object Model][object-model] chapter, we introduced the shift in the Move language from an

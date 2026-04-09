@@ -1,3 +1,5 @@
+> For the complete documentation index, see [llms.txt](https://move-book.com/llms.txt)
+
 # Abilities: Introduction
 
 Move has a unique type system which allows customizing _type abilities_.

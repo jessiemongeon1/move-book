@@ -1,3 +1,5 @@
+> For the complete documentation index, see [llms.txt](https://move-book.com/llms.txt)
+
 # Transaction Context
 
 Every transaction has the execution context. The context is a set of predefined variables that are

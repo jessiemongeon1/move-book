@@ -1,3 +1,5 @@
+> For the complete documentation index, see [llms.txt](https://move-book.com/llms.txt)
+
 # Tuples and Unit
 
 Move does not fully support tuples as one might expect coming from another language with them as a

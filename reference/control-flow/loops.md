@@ -1,3 +1,5 @@
+> For the complete documentation index, see [llms.txt](https://move-book.com/llms.txt)
+
 # Loop Constructs in Move
 
 Many programs require iteration over values, and Move provides `while` and `loop` forms to allow you

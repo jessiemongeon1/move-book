@@ -1,3 +1,5 @@
+> For the complete documentation index, see [llms.txt](https://move-book.com/llms.txt)
+
 # Move 2024 Migration Guide
 
 Move 2024 is the new edition of the Move language that is maintained by Mysten Labs. This guide is

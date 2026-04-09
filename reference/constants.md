@@ -1,3 +1,5 @@
+> For the complete documentation index, see [llms.txt](https://move-book.com/llms.txt)
+
 # Constants
 
 Constants are a way of giving a name to shared, static values inside of a `module`.

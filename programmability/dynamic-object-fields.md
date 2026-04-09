@@ -1,3 +1,5 @@
+> For the complete documentation index, see [llms.txt](https://move-book.com/llms.txt)
+
 # Dynamic Object Fields
 
 > This section expands on the [Dynamic Fields](./dynamic-fields). Please, read it first to

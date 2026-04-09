@@ -1,3 +1,5 @@
+> For the complete documentation index, see [llms.txt](https://move-book.com/llms.txt)
+
 # References
 
 Move has two types of references: immutable `&` and mutable `&mut`. Immutable references are read

@@ -1,3 +1,5 @@
+> For the complete documentation index, see [llms.txt](https://move-book.com/llms.txt)
+
 # Modules
 
 **Modules** are the core program unit that define types along with functions that operate on these

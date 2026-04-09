@@ -1,3 +1,5 @@
+> For the complete documentation index, see [llms.txt](https://move-book.com/llms.txt)
+
 # Better Error Handling
 
 Whenever execution encounters an abort, transaction fails and abort code is returned to the caller.

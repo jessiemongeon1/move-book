@@ -1,3 +1,5 @@
+> For the complete documentation index, see [llms.txt](https://move-book.com/llms.txt)
+
 # Macro Functions
 
 Macro functions are a way of defining functions that are expanded during compilation at each call

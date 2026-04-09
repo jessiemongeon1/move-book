@@ -1,3 +1,5 @@
+> For the complete documentation index, see [llms.txt](https://move-book.com/llms.txt)
+
 # The Move Reference
 
 Welcome to Move, a next generation language for secure asset programming. Its primary use case is in

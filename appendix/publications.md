@@ -1,3 +1,5 @@
+> For the complete documentation index, see [llms.txt](https://move-book.com/llms.txt)
+
 # Appendix D: Publications
 
 This section lists publications related to Move and Sui.

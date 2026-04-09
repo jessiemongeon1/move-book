@@ -1,3 +1,5 @@
+> For the complete documentation index, see [llms.txt](https://move-book.com/llms.txt)
+
 # Generics
 
 Generics are a way to define a type or function that can work with any type. This is useful when you

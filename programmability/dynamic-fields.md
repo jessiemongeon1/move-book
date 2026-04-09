@@ -1,3 +1,5 @@
+> For the complete documentation index, see [llms.txt](https://move-book.com/llms.txt)
+
 # Dynamic Fields
 
 Sui Object model allows objects to be attached to other objects as _dynamic fields_. The behavior is

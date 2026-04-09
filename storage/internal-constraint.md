@@ -1,3 +1,5 @@
+> For the complete documentation index, see [llms.txt](https://move-book.com/llms.txt)
+
 # Sui Verifier: Internal Constraint
 
 The Sui Bytecode Verifier enforces a set of rules on Move bytecode to ensure the safety of critical

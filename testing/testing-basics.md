@@ -1,3 +1,5 @@
+> For the complete documentation index, see [llms.txt](https://move-book.com/llms.txt)
+
 # Testing Basics
 
 The Move compiler has a built-in testing framework - tests are written in Move and live alongside

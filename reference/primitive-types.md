@@ -1,3 +1,5 @@
+> For the complete documentation index, see [llms.txt](https://move-book.com/llms.txt)
+
 # Primitive Types
 
 The primitive types are the basic building blocks of the language.

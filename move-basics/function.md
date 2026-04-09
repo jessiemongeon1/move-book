@@ -1,3 +1,5 @@
+> For the complete documentation index, see [llms.txt](https://move-book.com/llms.txt)
+
 # Functions
 
 Functions are the building blocks of Move programs. They are called from

@@ -1,3 +1,5 @@
+> For the complete documentation index, see [llms.txt](https://move-book.com/llms.txt)
+
 # String
 
 While Move does not have a built-in type to represent strings, it does have two standard

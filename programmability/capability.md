@@ -1,3 +1,5 @@
+> For the complete documentation index, see [llms.txt](https://move-book.com/llms.txt)
+
 # Pattern: Capability
 
 In programming, a _capability_ is a token that gives the owner the right to perform a specific

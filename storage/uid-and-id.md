@@ -1,3 +1,5 @@
+> For the complete documentation index, see [llms.txt](https://move-book.com/llms.txt)
+
 # UID and ID
 
 The use of the `UID` type is required by the Sui Verifier on all types that have the

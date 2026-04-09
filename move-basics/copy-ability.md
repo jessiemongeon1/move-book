@@ -1,3 +1,5 @@
+> For the complete documentation index, see [llms.txt](https://move-book.com/llms.txt)
+
 # Abilities: Copy
 
 In Move, the _copy_ ability on a type indicates that the instance or the value of the type can be

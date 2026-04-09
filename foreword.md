@@ -1,3 +1,5 @@
+> For the complete documentation index, see [llms.txt](https://move-book.com/llms.txt)
+
 # Foreword
 
 This book is dedicated to Move, a smart contract language that captures the essence of safe

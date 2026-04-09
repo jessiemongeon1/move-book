@@ -1,3 +1,5 @@
+> For the complete documentation index, see [llms.txt](https://move-book.com/llms.txt)
+
 # Compilation Modes
 
 A mode is a named, compile-time switch that controls which declarations are included in a build.

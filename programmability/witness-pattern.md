@@ -1,3 +1,5 @@
+> For the complete documentation index, see [llms.txt](https://move-book.com/llms.txt)
+
 # Pattern: Witness
 
 Witness is a pattern of proving an existence by constructing a proof. In the context of programming,

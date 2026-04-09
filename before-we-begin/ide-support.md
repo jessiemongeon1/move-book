@@ -1,3 +1,5 @@
+> For the complete documentation index, see [llms.txt](https://move-book.com/llms.txt)
+
 # Set Up Your IDE
 
 There are two most popular IDEs for Move development: VSCode and IntelliJ IDEA. Both of them provide

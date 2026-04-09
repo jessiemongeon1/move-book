@@ -1,3 +1,5 @@
+> For the complete documentation index, see [llms.txt](https://move-book.com/llms.txt)
+
 # Pattern Matching
 
 A `match` expression is a powerful control structure that allows you to compare a value against a

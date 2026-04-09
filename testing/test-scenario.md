@@ -1,3 +1,5 @@
+> For the complete documentation index, see [llms.txt](https://move-book.com/llms.txt)
+
 # Test Scenario
 
 The `test_scenario` module from the [Sui Framework](./../programmability/sui-framework.md) provides

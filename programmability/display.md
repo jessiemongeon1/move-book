@@ -1,3 +1,5 @@
+> For the complete documentation index, see [llms.txt](https://move-book.com/llms.txt)
+
 # Object Display
 
 Objects on Sui are explicit in their structure and behavior and can be displayed in an

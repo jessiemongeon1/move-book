@@ -1,3 +1,5 @@
+> For the complete documentation index, see [llms.txt](https://move-book.com/llms.txt)
+
 # Object Model
 
 This chapter describes the Object Model of Sui. It focuses on the theory and concepts behind the

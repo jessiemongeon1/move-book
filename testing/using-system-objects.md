@@ -1,3 +1,5 @@
+> For the complete documentation index, see [llms.txt](https://move-book.com/llms.txt)
+
 # Creating and Using System Objects in Tests
 
 Some tests require system objects like `Clock`, `Random`, or `DenyList`. These objects have

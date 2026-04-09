@@ -1,3 +1,5 @@
+> For the complete documentation index, see [llms.txt](https://move-book.com/llms.txt)
+
 # Events
 
 Events are a way to notify off-chain listeners about on-chain events. They are used to emit

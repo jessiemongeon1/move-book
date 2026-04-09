@@ -1,3 +1,5 @@
+> For the complete documentation index, see [llms.txt](https://move-book.com/llms.txt)
+
 # Custom Types with Struct
 
 Move's type system shines when it comes to defining custom types. User defined types can be custom

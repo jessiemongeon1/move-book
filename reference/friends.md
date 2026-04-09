@@ -1,3 +1,5 @@
+> For the complete documentation index, see [llms.txt](https://move-book.com/llms.txt)
+
 # DEPRECATED: Friends
 
 NOTE: this feature has been superseded by [`public(package)`](./functions#visibility).

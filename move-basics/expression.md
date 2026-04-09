@@ -1,3 +1,5 @@
+> For the complete documentation index, see [llms.txt](https://move-book.com/llms.txt)
+
 # Expression
 
 In programming languages, an expression is a unit of code that returns a value. In Move, almost

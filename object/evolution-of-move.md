@@ -1,3 +1,5 @@
+> For the complete documentation index, see [llms.txt](https://move-book.com/llms.txt)
+
 # Evolution of Move
 
 While Move was created to manage digital assets, its initial storage model was bulky and not

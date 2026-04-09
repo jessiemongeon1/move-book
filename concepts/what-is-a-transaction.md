@@ -1,3 +1,5 @@
+> For the complete documentation index, see [llms.txt](https://move-book.com/llms.txt)
+
 # Transaction
 
 Transaction is a fundamental concept in the blockchain world. It is a way to interact with a

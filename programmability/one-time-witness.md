@@ -1,3 +1,5 @@
+> For the complete documentation index, see [llms.txt](https://move-book.com/llms.txt)
+
 # One Time Witness
 
 While regular [Witness](./witness-pattern) is a great way to statically prove the ownership of a
@@ -126,10 +128,6 @@ However, it is not possible to check any of these conditions inside the Move cod
 ## Solving the Coin Problem
 
 To solve the case of multiple `TreasuryCap`s, we can use the OTW pattern. By defining the `COIN_OTW` type as an OTW, we can ensure that the `COIN_OTW` is used only once. The `COIN_OTW` is then used to create a new `TreasuryCap` and mint a new `Coin`.
-
-```move
-
-With
 
 ```move
 module book::coin_otw {

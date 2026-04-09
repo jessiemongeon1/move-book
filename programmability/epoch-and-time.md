@@ -1,3 +1,5 @@
+> For the complete documentation index, see [llms.txt](https://move-book.com/llms.txt)
+
 # Epoch and Time
 
 Sui has two ways of accessing the current time: `Epoch` and `Time`. The former represents

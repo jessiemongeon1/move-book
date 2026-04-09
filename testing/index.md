@@ -1,3 +1,5 @@
+> For the complete documentation index, see [llms.txt](https://move-book.com/llms.txt)
+
 # Testing
 
 Move is designed to be [secure by default](./../foreword.md) - its type system and built-in

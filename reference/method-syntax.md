@@ -1,3 +1,5 @@
+> For the complete documentation index, see [llms.txt](https://move-book.com/llms.txt)
+
 # Methods
 
 As a syntactic convenience, some functions in Move can be called as "methods" on a value. This is done

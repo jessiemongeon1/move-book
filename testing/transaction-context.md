@@ -1,3 +1,5 @@
+> For the complete documentation index, see [llms.txt](https://move-book.com/llms.txt)
+
 # Simulating Transaction Context
 
 Most Move functions that create objects or interface with the user have a `TxContext` argument. When

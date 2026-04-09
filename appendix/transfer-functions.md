@@ -1,3 +1,5 @@
+> For the complete documentation index, see [llms.txt](https://move-book.com/llms.txt)
+
 # Appendix C: Transfer Functions
 
 ## Transfer Functions Comparison

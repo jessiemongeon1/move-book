@@ -1,3 +1,5 @@
+> For the complete documentation index, see [llms.txt](https://move-book.com/llms.txt)
+
 # Collections
 
 Collection types are a fundamental part of any programming language. They are used to store a

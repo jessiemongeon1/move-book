@@ -1,3 +1,5 @@
+> For the complete documentation index, see [llms.txt](https://move-book.com/llms.txt)
+
 # What Makes a Good Test
 
 Writing tests is one thing; writing _good_ tests is another. A test suite that merely exists

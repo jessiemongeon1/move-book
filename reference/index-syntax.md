@@ -1,3 +1,5 @@
+> For the complete documentation index, see [llms.txt](https://move-book.com/llms.txt)
+
 # Index Syntax
 
 Move provides syntax attributes to allow you to define operations that look and feel like native

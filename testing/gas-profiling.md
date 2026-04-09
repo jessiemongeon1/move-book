@@ -1,3 +1,5 @@
+> For the complete documentation index, see [llms.txt](https://move-book.com/llms.txt)
+
 # Gas Profiling
 
 Understanding gas consumption helps optimize your Move code and estimate transaction costs. The Move

@@ -1,3 +1,5 @@
+> For the complete documentation index, see [llms.txt](https://move-book.com/llms.txt)
+
 # Functions
 
 Functions are declared inside of modules and define the logic and behavior of the module. Functions

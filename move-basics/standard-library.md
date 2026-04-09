@@ -1,3 +1,5 @@
+> For the complete documentation index, see [llms.txt](https://move-book.com/llms.txt)
+
 # Standard Library
 
 <!-- The Move standard library provides a set of modules  -->

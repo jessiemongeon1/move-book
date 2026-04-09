@@ -1,3 +1,5 @@
+> For the complete documentation index, see [llms.txt](https://move-book.com/llms.txt)
+
 # Hello, World!
 
 In this chapter, you will learn how to create a new package, write a simple module, compile it, and

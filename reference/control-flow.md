@@ -1,3 +1,5 @@
+> For the complete documentation index, see [llms.txt](https://move-book.com/llms.txt)
+
 # Control Flow
 
 Move offers multiple constructs for control flow based on

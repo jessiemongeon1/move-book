@@ -1,3 +1,5 @@
+> For the complete documentation index, see [llms.txt](https://move-book.com/llms.txt)
+
 # Type Reflection
 
 In programming languages, _reflection_ is the ability of a program to examine and modify its own

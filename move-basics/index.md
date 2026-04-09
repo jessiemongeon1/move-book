@@ -1,3 +1,5 @@
+> For the complete documentation index, see [llms.txt](https://move-book.com/llms.txt)
+
 # Move Basics
 
 This chapter is all about the basic syntax of the Move language. It covers the basics of the

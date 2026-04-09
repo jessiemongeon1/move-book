@@ -1,3 +1,5 @@
+> For the complete documentation index, see [llms.txt](https://move-book.com/llms.txt)
+
 # Advanced Programmability
 
 In previous chapters we've covered [the basics of Move](./../move-basics) and

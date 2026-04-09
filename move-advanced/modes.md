@@ -1,3 +1,5 @@
+> For the complete documentation index, see [llms.txt](https://move-book.com/llms.txt)
+
 # Modes
 
 Modes let you include **unpublishable** code only when you explicitly opt into a named build `mode`.

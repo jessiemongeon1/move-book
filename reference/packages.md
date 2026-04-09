@@ -1,3 +1,5 @@
+> For the complete documentation index, see [llms.txt](https://move-book.com/llms.txt)
+
 # Packages
 
 Packages allow Move programmers to more easily re-use code and share it across projects. The Move

@@ -1,3 +1,5 @@
+> For the complete documentation index, see [llms.txt](https://move-book.com/llms.txt)
+
 # Testing
 
 Move has a built-in testing framework that lets you write unit tests alongside your code. Tests are

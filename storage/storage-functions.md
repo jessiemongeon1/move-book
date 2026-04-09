@@ -1,3 +1,5 @@
+> For the complete documentation index, see [llms.txt](https://move-book.com/llms.txt)
+
 # Storage Functions
 
 The module that defines main storage operations is `sui::transfer`. It is implicitly imported in all

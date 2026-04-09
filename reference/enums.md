@@ -1,3 +1,5 @@
+> For the complete documentation index, see [llms.txt](https://move-book.com/llms.txt)
+
 # Enumerations
 
 An _enum_ is a user-defined data structure containing one or more _variants_. Each variant can

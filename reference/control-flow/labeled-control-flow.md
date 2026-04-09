@@ -1,3 +1,5 @@
+> For the complete documentation index, see [llms.txt](https://move-book.com/llms.txt)
+
 # Labeled Control Flow
 
 Move supports labeled control flow when writing both loops and blocks of code, allowing you

@@ -1,3 +1,5 @@
+> For the complete documentation index, see [llms.txt](https://move-book.com/llms.txt)
+
 # Code Quality Checklist
 
 The rapid evolution of the Move language and its ecosystem has rendered many older practices

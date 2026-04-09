@@ -1,3 +1,5 @@
+> For the complete documentation index, see [llms.txt](https://move-book.com/llms.txt)
+
 # Module Extensions
 
 **Module Extensions** let a package add new declarations to an existing module **as if** they were

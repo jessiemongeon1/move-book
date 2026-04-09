@@ -1,3 +1,5 @@
+> For the complete documentation index, see [llms.txt](https://move-book.com/llms.txt)
+
 # Module Initializer
 
 A common use case in many applications is to run certain code just once when the package is

@@ -1,3 +1,5 @@
+> For the complete documentation index, see [llms.txt](https://move-book.com/llms.txt)
+
 # Ability: Store
 
 The [`key` ability][key-ability] requires all fields to have `store`, which defines what the `store`

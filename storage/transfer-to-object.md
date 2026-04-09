@@ -1,3 +1,5 @@
+> For the complete documentation index, see [llms.txt](https://move-book.com/llms.txt)
+
 # Receiving as Object
 
 [Address owned](./storage-functions.md#transfer) Object state supports two types of owners: an

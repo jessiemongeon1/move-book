@@ -1,3 +1,5 @@
+> For the complete documentation index, see [llms.txt](https://move-book.com/llms.txt)
+
 # Upgradeability Practices
 
 To talk about best practices for upgradeability, we need to first understand what can be upgraded in

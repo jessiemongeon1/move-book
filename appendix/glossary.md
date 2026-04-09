@@ -1,3 +1,5 @@
+> For the complete documentation index, see [llms.txt](https://move-book.com/llms.txt)
+
 # Appendix A: Glossary
 
 - Fast Path - term used to describe a transaction that does not involve shared objects, and can be

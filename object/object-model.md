@@ -1,3 +1,5 @@
+> For the complete documentation index, see [llms.txt](https://move-book.com/llms.txt)
+
 # What is an Object?
 
 The Object Model in Sui can be viewed as a high-level abstraction representing digital assets as

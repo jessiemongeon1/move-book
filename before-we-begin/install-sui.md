@@ -1,3 +1,5 @@
+> For the complete documentation index, see [llms.txt](https://move-book.com/llms.txt)
+
 # Install Sui
 
 Move is a compiled language, so you need to install a compiler to be able to write and run Move

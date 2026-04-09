@@ -1,3 +1,5 @@
+> For the complete documentation index, see [llms.txt](https://move-book.com/llms.txt)
+
 # Abilities: Drop
 
 <!-- TODO: reiterate, given that we introduce abilities one by one -->

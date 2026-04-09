@@ -1,3 +1,5 @@
+> For the complete documentation index, see [llms.txt](https://move-book.com/llms.txt)
+
 # Ownership and Scope
 
 Every variable in Move has a scope and an owner. The scope is the range of code where the variable

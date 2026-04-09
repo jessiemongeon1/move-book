@@ -1,3 +1,5 @@
+> For the complete documentation index, see [llms.txt](https://move-book.com/llms.txt)
+
 # Structs and Resources
 
 A _struct_ is a user-defined data structure containing typed fields. Structs can store any

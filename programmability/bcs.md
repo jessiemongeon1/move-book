@@ -1,3 +1,5 @@
+> For the complete documentation index, see [llms.txt](https://move-book.com/llms.txt)
+
 # Binary Canonical Serialization
 
 Binary Canonical Serialization (BCS) is a binary encoding format for structured data. It was

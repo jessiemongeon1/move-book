@@ -1,3 +1,5 @@
+> For the complete documentation index, see [llms.txt](https://move-book.com/llms.txt)
+
 # Generics
 
 Generics can be used to define functions and structs over different input data types. This language

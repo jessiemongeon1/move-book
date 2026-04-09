@@ -1,3 +1,5 @@
+> For the complete documentation index, see [llms.txt](https://move-book.com/llms.txt)
+
 # Pattern: Builder
 
 The builder pattern is used to construct complex objects with many parameters in a flexible and

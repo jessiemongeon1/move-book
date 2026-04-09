@@ -1,3 +1,5 @@
+> For the complete documentation index, see [llms.txt](https://move-book.com/llms.txt)
+
 # Appendix B: Reserved Addresses
 
 Reserved addresses are special addresses that have a specific purpose on Sui. They stay the same

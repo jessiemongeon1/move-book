@@ -1,3 +1,5 @@
+> For the complete documentation index, see [llms.txt](https://move-book.com/llms.txt)
+
 # Package Manifest
 
 The `Move.toml` is a manifest file that describes the [package](./packages) and its dependencies. It

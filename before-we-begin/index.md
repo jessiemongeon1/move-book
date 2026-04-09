@@ -1,3 +1,5 @@
+> For the complete documentation index, see [llms.txt](https://move-book.com/llms.txt)
+
 # Before We Begin
 
 Move requires an environment to run and develop applications, and in this small chapter we will

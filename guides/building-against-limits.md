@@ -1,3 +1,5 @@
+> For the complete documentation index, see [llms.txt](https://move-book.com/llms.txt)
+
 # Building Against Limits
 
 To guarantee the safety and security of the network, Sui has certain limits and restrictions. These

@@ -1,3 +1,5 @@
+> For the complete documentation index, see [llms.txt](https://move-book.com/llms.txt)
+
 # Ability: Key
 
 In the [Basic Syntax][basic-syntax] chapter, we already covered two out of four abilities:

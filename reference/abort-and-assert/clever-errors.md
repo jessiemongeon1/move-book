@@ -1,3 +1,5 @@
+> For the complete documentation index, see [llms.txt](https://move-book.com/llms.txt)
+
 # Clever Errors
 
 Clever errors are a feature that allows for more informative error messages when an assertion fails

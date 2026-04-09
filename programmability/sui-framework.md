@@ -1,3 +1,5 @@
+> For the complete documentation index, see [llms.txt](https://move-book.com/llms.txt)
+
 # Sui Framework
 
 Sui Framework is a default dependency set in the [Package Manifest](./../concepts/manifest). It

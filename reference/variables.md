@@ -1,3 +1,5 @@
+> For the complete documentation index, see [llms.txt](https://move-book.com/llms.txt)
+
 # Local Variables and Scope
 
 Local variables in Move are lexically (statically) scoped. New variables are introduced with the

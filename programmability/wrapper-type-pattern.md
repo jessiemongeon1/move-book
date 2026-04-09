@@ -1,3 +1,5 @@
+> For the complete documentation index, see [llms.txt](https://move-book.com/llms.txt)
+
 # Pattern: Wrapper type
 
 Sometimes, there's a need to create a new type that behaves similarly to an existing type but with

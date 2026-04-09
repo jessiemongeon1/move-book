@@ -1,3 +1,5 @@
+> For the complete documentation index, see [llms.txt](https://move-book.com/llms.txt)
+
 # Random Inputs
 
 The Move compiler supports running tests with randomized inputs through the `#[random_test]`

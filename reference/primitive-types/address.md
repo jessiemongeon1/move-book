@@ -1,3 +1,5 @@
+> For the complete documentation index, see [llms.txt](https://move-book.com/llms.txt)
+
 # Address
 
 `address` is a built-in type in Move that is used to represent locations (sometimes called accounts)

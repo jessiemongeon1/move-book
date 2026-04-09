@@ -57,7 +57,7 @@ The core technical elements of Move are:
 - _Programmable transaction blocks_ (PTBs) to enable atomic client-side composition of Move-powered
   APIs.
 
-Move was born in 2018 as part of Facebook's Libra project. It was publicly revealed in 2019, the
+Move was born in 2018 as part of Facebook's Libra project. It was publicly revealed in 2019; the
 first Move-powered network launched in 2020. As of April 2024, there are numerous Move-powered
 chains in production with several more in the works. Move is an embedded language with a
 platform-agnostic core, which means it takes on a slightly different personality in each chain that
@@ -1629,7 +1629,7 @@ how to define a module, declare its members, and access it from other modules.
 
 Modules are declared using the `module` keyword followed by the package address, module name,
 semicolon, and the module body. The module name should be in `snake_case` - all lowercase letters
-with underscores between words. Modules names must be unique in the package.
+with underscores between words. Module names must be unique in the package.
 
 Usually, a single file in the `sources/` folder contains a single module. The file name should match
 the module name - for example, a `donut_shop` module should be stored in the `donut_shop.move` file.
@@ -1646,7 +1646,7 @@ module book::my_module;
 // module body
 ```
 
-Structs, functions, constants and imports all part of the module:
+Structs, functions, constants and imports are all part of the module:
 
 - [Structs](./struct)
 - [Functions](./function)
@@ -1676,7 +1676,7 @@ book = "0x0"
 
 ## Module Members
 
-Module members are declared inside the module body. To illustrate that, let's define a simple module
+Module members are declared inside the module body. To illustrate this, let's define a simple module
 with a struct, a function and a constant:
 
 ```move
@@ -1703,7 +1703,7 @@ fun function(_: &Struct) { /* function body */ }
 The pre-2024 edition of Move required the body of the module to be a _module block_ - the contents
 of the module needed to be surrounded by curly braces `{}`. The main reason to use block syntax and
 not _label_ syntax is if you need to define more than one module in a file. However, using module
-blocks is not recommended practice.
+blocks is not a recommended practice.
 
 ```move
 module book::my_block_module_with_members {
@@ -1913,7 +1913,7 @@ let z: u256 = 42;
 ```
 
 While boolean literals like `true` and `false` are clearly booleans, an integer literal like `42`
-could be any of the integer types. In most of the cases, the compiler will infer the type from the
+could be any of the integer types. In most cases, the compiler will infer the type from the
 value, usually defaulting to `u64`. However, sometimes the compiler is unable to infer the type and
 will require an explicit type annotation. It can either be provided during assignment or by using a
 type suffix.
@@ -1971,7 +1971,7 @@ let y: u8 = 255;
 let z: u16 = (x as u16) + ((y as u16) * 2);
 ```
 
-### Overflow
+### Overflow and Underflow
 
 Move does not support overflow / underflow; an operation that results in a value outside the range
 of the type will raise a runtime error. This is a safety feature to prevent unexpected behavior.
@@ -2026,14 +2026,14 @@ let other = @sui;
 ```
 
 An address literal starts with the `@` symbol followed by a hexadecimal number or an identifier. The
-hexadecimal number is interpreted as a 32 byte value. The identifier is looked up in the
+hexadecimal number is interpreted as a 32-byte value. The identifier is looked up in the
 [Move.toml](./../concepts/manifest) file and replaced with the corresponding address by the
 compiler. If the identifier is not found in the Move.toml file, the compiler will throw an error.
 
 ## Conversion
 
 Sui Framework offers a set of helper functions to work with addresses. Given that the address type
-is a 32 byte value, it can be converted to a `u256` type and vice versa. It can also be converted to
+is a 32-byte value, it can be converted to a `u256` type and vice versa. It can also be converted to
 and from a `vector<u8>` type.
 
 Example: Convert an address to a `u256` type and back.
@@ -2082,7 +2082,7 @@ In this section, we cover the types of expressions and introduce the concept of 
 
 ## Literals
 
-In the [Primitive types](./primitive-types) section, we introduced the basic types of Move. And to
+In the [Primitive Types](./primitive-types) section, we introduced the basic types of Move. And to
 illustrate them, we used literals. A literal is a notation for representing a fixed value in source
 code. Literals can be used to initialize variables or directly pass fixed values as arguments to
 functions. Move has the following literals:
@@ -2147,7 +2147,7 @@ let sum = {
 We go into detail about functions in the [Functions](./function) section. However, we have already
 used function calls in previous sections, so it's worth mentioning them here. A function call is an
 expression that calls a function and returns the value of the last expression in the function body,
-provided the last expression does not have a terminating semi-colon.
+provided the last expression does not have a terminating semicolon.
 
 ```move
 fun add(a: u8, b: u8): u8 {
